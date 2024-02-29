@@ -2,9 +2,6 @@
 
 **_I’m a student passionate about exploring cybersecurity topics with a focus on ethical hacking, network security, and digital forensics.✨_**
 
-## Some skills and tools I have been learning and improving on:
-[<img src="https://github.com/Lattice23/Lattice23/assets/159420767/d901e68a-79fc-436f-aff2-416d4792d105">](https://portswigger.net/burp/communitydownload) [<img src="https://github.com/Lattice23/Lattice23/assets/159420767/c5a1c3e4-914b-4cad-a374-5de81b40c8f7">](https://www.elastic.co/elastic-stack) [<img src="https://github.com/Lattice23/Lattice23/assets/159420767/84dffef4-81d1-454e-ac80-55d5f8471785">](https://www.python.org/downloads/a) [<img src="https://github.com/Lattice23/Lattice23/assets/159420767/5e9bda0d-06ee-456a-9a90-1758578547bd">](https://distrowatch.com/dwres.php?resource=major)
-
 
 ## Find More of me here:
 
