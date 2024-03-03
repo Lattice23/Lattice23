@@ -5,7 +5,7 @@
 
 ## Find More of me here:
 
-[<img src="https://github.com/Lattice23/Lattice23/assets/159420767/a0dcdebe-6a10-4405-bf6e-01f36635cc11">](https://tryhackme.com/p/Lattice) [<img src="https://github.com/Lattice23/Lattice23/assets/159420767/1807b664-e810-4b9c-9d85-e313f215248c)">](https://medium.com/@henrylattice1738) 
+[<img align="center" height="37" src="https://github.com/Lattice23/Lattice23/assets/159420767/a0dcdebe-6a10-4405-bf6e-01f36635cc11">](https://tryhackme.com/p/Lattice) [<img align="center" height="37" src="https://github.com/Lattice23/Lattice23/assets/159420767/1807b664-e810-4b9c-9d85-e313f215248c)">](https://medium.com/@henrylattice1738) [<img align="center" width="280" height="69" src="https://github.com/Lattice23/Lattice23/assets/159420767/fa715b72-1a4e-4aa7-997c-a4b59090f5a3">]("google.com)
 
 
 
